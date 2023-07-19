@@ -8,10 +8,10 @@
 </p>
 <br>
 Here are a few recent projects of mine that you can view publicly. Feel free to check them out below!
-
+ 
 ## 📈 Data Analysis Using Machine Learning Algorithms
 + :house: [Analysing and predicting Melbourne airbnb listed prices](https://github.com/jasminehuynh11/Predicting-Airbnb-Listed-Prices-in-Melbourne) <br/>
-
++ 🛒: [Supermarket customer segmentation & marketing techniques recommendations](https://github.com/jasminehuynh11/Customer-Segmentation-Analysis) <br/>  
 
 
 <!--
