@@ -20,6 +20,7 @@ Here are a few recent projects of mine that you can view publicly. Feel free to 
   -  Provide actionable marketing recommendations tailored to each customer segment group. 
 
 ## 🎨 Data Visualisation
++ 📊 [Australian Born Member Demographics (1996-2016): Lebanon, North Macedonia, Scotland, South Africa, Vietnam.](https://public.tableau.com/app/profile/jasmine.huynh8591/viz/DashboardStoryhedemographicsofmemberinAustraliaborninAustraliaLebanonNorthMacedoniaScotlandSouthAfricaandVietnamoverthepast20years1996-2016_/DashboardThedemographicsofmemberinAustraliaborninAustraliaLebanonNorthMacedoniaScotlandSouthAfricaandVietnamoverthepast20years1996-2016) <br/>
 
 
 <!--
