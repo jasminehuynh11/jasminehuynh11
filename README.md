@@ -11,7 +11,12 @@ Here are a few recent projects of mine that you can view publicly. Feel free to 
  
 ## 📈 Data Analysis Using Machine Learning Algorithms
 + :house: [Analysing and predicting Melbourne airbnb listed prices](https://github.com/jasminehuynh11/Predicting-Airbnb-Listed-Prices-in-Melbourne) <br/>
-+ 🛒: [Supermarket customer segmentation & marketing techniques recommendations](https://github.com/jasminehuynh11/Customer-Segmentation-Analysis) <br/>  
+  - Data cleaning, feature transformation, and variable relationship analysis.
+  - Employing Regression ML for Melbourne Airbnb price predictions and feature impact identification.
+
++ 🛒 [Supermarket customer segmentation & marketing techniques recommendations](https://github.com/jasminehuynh11/Customer-Segmentation-Analysis) <br/>
+  - Data cleaning, feature transformation, and variable relationship analysis.
+  - Employing supervised and unsupervised ML for Melbourne Airbnb price predictions and feature impact identification.
 
 
 <!--
