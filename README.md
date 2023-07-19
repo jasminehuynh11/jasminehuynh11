@@ -15,7 +15,10 @@ Here are a few recent projects of mine that you can view publicly. Feel free to 
   - Employing Regression ML for Melbourne Airbnb price predictions and feature impact identification.
 
 + 🛒 [Supermarket customer segmentation & marketing techniques recommendations](https://github.com/jasminehuynh11/Customer-Segmentation-Analysis) <br/>
-  - Data cleaning, feature transformation, and variable relationship analysis.
+  -  Exploratory data analysis, presenting summary statistics and relevant insights.
+  -  Apply clustering techniques to identify customer segments. 
+  -  Provide actionable marketing recommendations tailored to each customer segment group. 
+.
   - Employing supervised and unsupervised ML for Melbourne Airbnb price predictions and feature impact identification.
 
 
