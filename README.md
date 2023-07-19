@@ -18,7 +18,6 @@ Here are a few recent projects of mine that you can view publicly. Feel free to 
   -  Exploratory data analysis, presenting summary statistics and relevant insights.
   -  Apply clustering techniques to identify customer segments. 
   -  Provide actionable marketing recommendations tailored to each customer segment group. 
-  - Employing supervised and unsupervised ML for Melbourne Airbnb price predictions and feature impact identification.
 
 
 <!--
