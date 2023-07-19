@@ -19,6 +19,8 @@ Here are a few recent projects of mine that you can view publicly. Feel free to 
   -  Apply clustering techniques to identify customer segments. 
   -  Provide actionable marketing recommendations tailored to each customer segment group. 
 
+## 🎨 Data Visualisation
+
 
 <!--
 **jasminehuynh11/jasminehuynh11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
