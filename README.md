@@ -2,10 +2,11 @@
 <p align="center">
   I’m Jasmine - A Data Analyst <br/>
   <strong>Syndey, Australia</strong> <br/>
-  📫 How to reach me: 
+  </p>
+📫 How to reach me: 
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/jasminehuynhinfo/)
-</p>
+
 <br>
 Here are a few recent projects of mine that you can view publicly. Feel free to check them out below!
  
