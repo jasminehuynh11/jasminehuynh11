@@ -2,7 +2,7 @@
 <p align="center">
   I’m Jasmine - A Data Analyst <br/>
   <strong>Syndey, Australia</strong> <br/>
-  📫 How to reach me:  <a href="[your-linkedin-URL](https://www.linkedin.com/in/jasminehuynhinfo/)">
+  📫 How to reach me:  <a href="[https://www.linkedin.com/in/jasminehuynhinfo/]">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
 </p>
