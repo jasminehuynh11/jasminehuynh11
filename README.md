@@ -22,8 +22,11 @@ Here are a few recent projects of mine that you can view publicly. Feel free to 
 ## 🧩 Data Manipulation with SQL
 
 ## 🎨 Data Visualisation
+### Tableau project: 
 + 📊 [Australian Born Member Demographics (1996-2016): Lebanon, North Macedonia, Scotland, South Africa, Vietnam.](https://public.tableau.com/app/profile/jasmine.huynh8591/viz/DashboardStoryhedemographicsofmemberinAustraliaborninAustraliaLebanonNorthMacedoniaScotlandSouthAfricaandVietnamoverthepast20years1996-2016_/DashboardThedemographicsofmemberinAustraliaborninAustraliaLebanonNorthMacedoniaScotlandSouthAfricaandVietnamoverthepast20years1996-2016) <br/>
 + ❓ [Decline of Young Asian Immigrants in Australia (1996-2016)](https://public.tableau.com/app/profile/jasmine.huynh8591/viz/DashboardStoryThedemographicof/StoryAreyoungAsianimmigrantsonthedeclineinAustralia) <br/>
+
+### MS PowerBI project: 
 
 <!--
 **jasminehuynh11/jasminehuynh11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
