@@ -13,6 +13,7 @@ Here are a few recent projects of mine that you can view publicly. Feel free to 
 + :house: [Analysing and predicting Melbourne airbnb listed prices](https://github.com/jasminehuynh11/Predicting-Airbnb-Listed-Prices-in-Melbourne) <br/>
   - Data cleaning, feature transformation, and variable relationship analysis.
   - Employing Regression ML for Melbourne Airbnb price predictions and feature impact identification.
+  - Empowering strategic decision-making for property owners.
 
 + 🛒 [Supermarket customer segmentation & marketing techniques recommendations](https://github.com/jasminehuynh11/Customer-Segmentation-Analysis) <br/>
   -  Exploratory data analysis, presenting summary statistics and relevant insights.
@@ -21,6 +22,11 @@ Here are a few recent projects of mine that you can view publicly. Feel free to 
  
 ## 🧩 Data Manipulation with SQL
 + 🚛 [Meraki delivery company: database design and optimized SQL queries](https://github.com/jasminehuynh11/Database-Design-SQL-Queries-for-Meraki-Delivery-Company). <br/>
+  -  Strategic Analysis: Unveiling needs, aligning goals with EER, and Logical Transformation.
+  -  Architectural Optimization: Crafting efficient EER diagram, applying Logical Transformation.
+  -  Data Refinement: Creating SQL database from refined architecture.
+  -  Actionable Insights: Extracting valuable business data via SQL query.
+  
 ## 🎨 Data Visualisation
 ### Tableau: 
 + 📊 [Australian Born Member Demographics (1996-2016): Lebanon, North Macedonia, Scotland, South Africa, Vietnam.](https://public.tableau.com/app/profile/jasmine.huynh8591/viz/DashboardStoryhedemographicsofmemberinAustraliaborninAustraliaLebanonNorthMacedoniaScotlandSouthAfricaandVietnamoverthepast20years1996-2016_/DashboardThedemographicsofmemberinAustraliaborninAustraliaLebanonNorthMacedoniaScotlandSouthAfricaandVietnamoverthepast20years1996-2016) <br/>
