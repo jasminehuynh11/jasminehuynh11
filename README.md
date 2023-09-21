@@ -34,6 +34,11 @@ Here are a few recent projects of mine that you can view publicly. Feel free to 
 
 ### MS PowerBI: 
 
+
+## View Count <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30"/>
+
+<img src="https://profile-counter.glitch.me/jasminehuynh11/count.svg" />
+
 <!--
 **jasminehuynh11/jasminehuynh11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
