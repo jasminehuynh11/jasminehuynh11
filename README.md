@@ -33,7 +33,7 @@ Here are a few recent projects of mine that you can view publicly. Feel free to 
 + ❓ [Decline of Young Asian Immigrants in Australia (1996-2016)](https://public.tableau.com/app/profile/jasmine.huynh8591/viz/DashboardStoryThedemographicof/StoryAreyoungAsianimmigrantsonthedeclineinAustralia) <br/>
 
 ### MS PowerBI: 
-
++ 📊 [Data Professional Survey Analysis](https://app.powerbi.com/groups/me/reports/e2ffdedf-3275-4efb-ba69-669a6391064a/ReportSection?experience=power-bi) <br/>
 
 ## View Count <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30"/>
 
