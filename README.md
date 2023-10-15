@@ -15,9 +15,9 @@ Here are a few recent projects of mine that you can view publicly. Feel free to 
   - Employing Regression ML for Melbourne Airbnb price predictions and feature impact identification.
   - Empowering strategic decision-making for property owners.
 
-+ :house: [Analysing and predicting Sydney houses prices](https://github.com/jasminehuynh11/Predicting-Airbnb-Listed-Prices-in-Melbourne) <br/>
++ :house: [Predictive Analysis of Sydney House Prices: Exploring Determinants from 2000 to 2019](https://github.com/jasminehuynh11/Predictive-Analysis-of-Sydney-House-Prices-Exploring-Determinants-from-2000-to-2019) <br/>
   - Data cleaning, feature transformation, and variable relationship analysis.
-  - Employing Regression ML for Melbourne Airbnb price predictions and feature impact identification.
+  - Employing Regression ML for Sydney house price predictions and feature impact identification.
   - Empowering strategic decision-making for property owners.
 
 + 🛒 [Supermarket customer segmentation & marketing techniques recommendations](https://github.com/jasminehuynh11/Customer-Segmentation-Analysis) <br/>
