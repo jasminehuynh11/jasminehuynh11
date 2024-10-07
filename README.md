@@ -27,10 +27,10 @@ Here are a few recent projects of mine that you can view publicly. Feel free to 
  
 ## 🧩 Data Manipulation with SQL
 + 🚛 [Meraki delivery company: database design and optimized SQL queries](https://github.com/jasminehuynh11/Database-Design-SQL-Queries-for-Meraki-Delivery-Company). <br/>
-  -  Strategic Analysis: Unveiling needs, aligning goals with EER, and Logical Transformation.
-  -  Architectural Optimization: Crafting efficient EER diagram, applying Logical Transformation.
-  -  Data Refinement: Creating SQL database from refined architecture.
-  -  Actionable Insights: Extracting valuable business data via SQL query.
+  -  Unveiling needs, aligning goals with EER, and Logical Transformation.
+  -  Crafting efficient EER diagram, applying Logical Transformation.
+  -  Creating SQL database from refined architecture.
+  -  Actionable insights: Extracting valuable business data via SQL query.
   
 ## 🎨 Data Visualisation
 ### Tableau: 
