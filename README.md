@@ -7,8 +7,8 @@
 
   [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/jasminehuynhinfo/)
 
-Here are a few recent projects of mine that you can view publicly. Feel free to check them out below!
- 
+Here are some of my recent projects focused on machine learning, AI, and data science. Feel free to explore them below!
+
 ## 📈 Data Analysis Using Machine Learning Algorithms
 + :house: [Analysing and predicting Melbourne airbnb listed prices](https://github.com/jasminehuynh11/Predicting-Airbnb-Listed-Prices-in-Melbourne) <br/>
   - Data cleaning, feature transformation, and variable relationship analysis.
