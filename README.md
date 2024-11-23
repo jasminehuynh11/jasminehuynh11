@@ -1,6 +1,6 @@
 <h1 align="center">  Hi there 👋 </h1>
 <p align="center">
-  I’m Jasmine - A Data Analyst <br/>
+  I’m Jasmine - A Data Scientist and AI Enthusiast <br/>
   <strong>Syndey, Australia</strong> <br/>
     </p>
   📫 How to reach me: 
