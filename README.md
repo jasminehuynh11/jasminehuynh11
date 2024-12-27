@@ -1,6 +1,6 @@
 <h1 align="center">  Hi there 👋 </h1>
 <p align="center">
-  I’m Jasmine - A Data Scientist and AI Enthusiast <br/>
+  I’m Jasmine - A Data Scientist and AI Enthusiast specialising in Deep Learning, Natural Language Processing, and Computer Vision. My passion lies in uncovering insights and building impactful AI solutions through cutting-edge technology.  <br/>
   <strong>Syndey, Australia</strong> <br/>
     </p>
   📫 How to reach me: 
