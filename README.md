@@ -24,9 +24,8 @@ Here are some of my recent projects focused on machine learning, AI, and data sc
   -  Exploratory data analysis, presenting summary statistics and relevant insights.
   -  Apply clustering techniques to identify customer segments. 
   -  Provide actionable marketing recommendations tailored to each customer segment group.
----
 
-### 🧠 **Deep Learning and AI Projects**  
+## 🧠 **Deep Learning and AI Projects**  
 - **🔗 [Query-Focused Summarization for Medical Questions](https://github.com/jasminehuynh11/Query-Focused-Summarization-for-Medical-Questions)**  
   - Developed deep learning models for query-focused summarization in the medical domain using data from the BioASQ Challenge.  
   - **Implemented Models:**  
@@ -51,8 +50,6 @@ Here are some of my recent projects focused on machine learning, AI, and data sc
     - Implemented transfer learning using MobileNetV2 for state-of-the-art accuracy.  
   - **Future Enhancements:**  
     - Explore additional pre-trained models, improve data augmentation, and deploy the best model using Streamlit or Flask.
-
----
  
 ## 🧩 Data Manipulation with SQL
 + 🚛 [Meraki delivery company: database design and optimized SQL queries](https://github.com/jasminehuynh11/Database-Design-SQL-Queries-for-Meraki-Delivery-Company). <br/>
