@@ -24,6 +24,35 @@ Here are some of my recent projects focused on machine learning, AI, and data sc
   -  Exploratory data analysis, presenting summary statistics and relevant insights.
   -  Apply clustering techniques to identify customer segments. 
   -  Provide actionable marketing recommendations tailored to each customer segment group.
+---
+
+### 🧠 **Deep Learning and AI Projects**  
+- **🔗 [Query-Focused Summarization for Medical Questions](https://github.com/jasminehuynh11/Query-Focused-Summarization-for-Medical-Questions)**  
+  - Developed deep learning models for query-focused summarization in the medical domain using data from the BioASQ Challenge.  
+  - **Implemented Models:**  
+    - Siamese Neural Network: Achieved F1 score of 0.5333.  
+    - LSTM-Based Neural Network: Achieved the best F1 score of 0.6392.  
+    - Transformer-Based Model with BERT: Achieved an F1 score of 0.4286 with perfect recall.  
+  - **Key Features:**  
+    - Built custom summarization functions for retrieving top n relevant sentences.  
+    - Conducted extensive model evaluations and hyperparameter tuning.  
+  - **Future Enhancements:**  
+    - Fine-tuning Transformer models, implementing data augmentation, and deploying summarization as a web application.
+
+- **🖼️ [Weather Image Classification](https://github.com/jasminehuynh11/Weather-Classification-CNN)**  
+  - Classified weather images into categories: Cloudy, Rain, Shine, and Sunrise.  
+  - **Implemented Models:**  
+    - Simple Neural Network: 81.07% accuracy.  
+    - Complex Neural Network: 89.35% accuracy.  
+    - CNN: 99.41% accuracy.  
+    - Transfer Learning with MobileNetV2: Achieved 100% accuracy on the test set.  
+  - **Key Features:**  
+    - Conducted hyperparameter tuning with Keras Tuner for optimal performance.  
+    - Implemented transfer learning using MobileNetV2 for state-of-the-art accuracy.  
+  - **Future Enhancements:**  
+    - Explore additional pre-trained models, improve data augmentation, and deploy the best model using Streamlit or Flask.
+
+---
  
 ## 🧩 Data Manipulation with SQL
 + 🚛 [Meraki delivery company: database design and optimized SQL queries](https://github.com/jasminehuynh11/Database-Design-SQL-Queries-for-Meraki-Delivery-Company). <br/>
@@ -31,7 +60,8 @@ Here are some of my recent projects focused on machine learning, AI, and data sc
   -  Crafting efficient EER diagram, applying Logical Transformation.
   -  Creating SQL database from refined architecture.
   -  Actionable insights: Extracting valuable business data via SQL query.
-  
+---
+
 ## 🎨 Data Visualisation
 ### Tableau: 
 + 📊 [Australian Born Member Demographics (1996-2016): Lebanon, North Macedonia, Scotland, South Africa, Vietnam.](https://public.tableau.com/app/profile/jasmine.huynh8591/viz/DashboardStoryhedemographicsofmemberinAustraliaborninAustraliaLebanonNorthMacedoniaScotlandSouthAfricaandVietnamoverthepast20years1996-2016_/DashboardThedemographicsofmemberinAustraliaborninAustraliaLebanonNorthMacedoniaScotlandSouthAfricaandVietnamoverthepast20years1996-2016) <br/>
