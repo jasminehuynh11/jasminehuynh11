@@ -233,9 +233,6 @@ Tableau | Power BI | Data Storytelling | Dashboard Design
 
 ---
 
-## View Count <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30"/>
-
-<img src="https://komarev.com/ghpvc/?username=jasminehuynh11&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
 <!--
 **jasminehuynh11/jasminehuynh11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
