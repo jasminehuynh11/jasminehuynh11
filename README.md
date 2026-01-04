@@ -11,7 +11,7 @@
   </a>
 </p>
 
-Master of IT specializing in AI. Projects organized by technology area.
+Welcome to my portfolio! Have a look around. Projects organized by technology area.
 
 ---
 
