@@ -69,7 +69,7 @@ Welcome to my portfolio! Have a look around. Projects organized by technology ar
 
 ### [Self-Aware Support: Multilingual Reinforcement Learning Pipeline for AI Mental Health Chat](https://github.com/jasminehuynh11/Self-Aware-Support-A-Multilingual-Reinforcement-Learning-Pipeline-for-AI-Mental-Health-Chat)
 **Tech Stack:** Reinforcement Learning | Multilingual NLP | Mental Health AI  
-**Type:** Research Project | **Status:** In Progress
+**Type:** Research Project | **Status:** Complete
 
 - Multilingual reinforcement learning pipeline for mental health chatbot
 - COMP8420 Assignment 3 major project tackling real-world NLP challenges
